@@ -1,4 +1,3 @@
-# QA_Portfolio
 # 🧪 QA Portfolio — Viktor
 
 This repository contains a collection of **manual QA testing projects** created to demonstrate testing documentation, analysis, and reporting skills.  

@@ -1,6 +1,6 @@
 # 🧪 QA Portfolio — Viktor
 
-📁 **Full QA Portfolio available on Google Drive:** [Open in Google Drive](https://drive.google.com/drive/folders/1BKWZd5QySUb3QKPcV4v4m6DxXWE7jS3f?usp=sharing)
+📁 **Full QA Portfolio available on Google Drive:** [Open in Google Drive](https://drive.google.com/drive/folders/1PdT74hladvgNSWAKuPOTcr4f7elxjN1V?usp=sharing)
 
 This repository contains a collection of **manual QA testing projects** created to demonstrate testing documentation, analysis, and reporting skills.  
 Each project includes the full QA cycle — from test planning to reporting and test matrix completion.

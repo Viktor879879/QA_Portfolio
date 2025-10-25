@@ -41,14 +41,14 @@ Includes:
 
 ---
 
-### 3️⃣ **ToDoMVC Web Application**
+### 3️⃣ **ToolShopDemo Website**
 **Type:** Web application (task management)  
 **Focus:** Functional, UI/UX, Exploratory  
 **Description:**  
-Manual testing of a task management app (ToDoMVC) verifying CRUD functionality and user interface behavior.  
+Manual testing of a task management app (ToolShopDemo) verifying CRUD functionality and user interface behavior.  
 Includes:  
 - Test Plan  
-- Test Cases (10)  
+- Test Cases (8)  
 - Bug Reports  
 - Test Summary Report  
 - Test Matrix  
